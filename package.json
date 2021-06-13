@@ -1,0 +1,27 @@
+{
+  "name": "js-validator",
+  "version": "1.0.0",
+  "description": "## Project setup ``` npm install ```",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "http-server .",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hsnzync/js-validator.git"
+  },
+  "author": "ozaynaci",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hsnzync/js-validator/issues"
+  },
+  "homepage": "https://github.com/Hsnzync/js-validator#readme",
+  "type": "module",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  },
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
+}
